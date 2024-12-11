@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue ;
+    
+}
+
+.indexBody{
+    background-color: aliceblue;
+}
+.headers{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 72px;
+    color: black;
+}
+
+.button1{
+    font-size: 24px;
+}
+button{
+    background-color: rgb(191, 219, 210);
+    border:0px;
+    font-size: 64px;
+}
+
+
